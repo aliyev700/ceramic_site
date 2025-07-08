@@ -1,0 +1,165 @@
+/*# sourceMappingURL=style.css.map */
+
+* {
+  font-family: "EB Garamond", serif;
+  max-width: 1500px;
+}
+
+.hsec {
+  text-decoration: none;
+
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+
+  margin-top: 20px;
+  margin-right: 30px;
+}
+
+header {
+  padding-left: 165px;
+  padding-right: 165px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+
+  padding: 0;
+  border: none;
+}
+
+.logos {
+  text-decoration: none;
+
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+#img_1 {
+  height: 600px;
+
+  width: 1500px;
+}
+
+#item1 {
+
+  background-color: #826f66;
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+
+  height: 612px;
+  width: 420px;
+  gap: 50px;
+
+  top: 0%;
+  left: 165px;
+}
+
+#btn1 {
+  width: 200px;
+  height: 40px;
+  padding: 5px;
+  margin-right: 20px;
+  border: none;
+  background-color: white;
+}
+
+#dinnerset {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+
+.item2{
+
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+  
+}
+
+
+#img2{
+
+    width: 260px;
+    height: 260px;
+}
+
+
+
+#tableware{
+    font-size: 18px;
+    text-align: center;
+    
+   
+}
+
+
+
+#item3{
+
+    width: 260px;
+
+}
+
+
+
+#cards1{
+    margin-top: 40px;
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.cards2{
+    background-color: #F7F6F5;
+
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 110px;
+
+}
+
+
+#img4{
+
+    width: 570px;
+    height: 300px;
+    
+}
+
+
+#card2{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+#h1{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 80px;
+   
+}
+
